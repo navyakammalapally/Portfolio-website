@@ -151,14 +151,6 @@ The website is fully responsive and optimized for:
 
 ---
 
-## Author
+## Live Demo
 
-**Navya Kammalapally**
-
-GitHub: https://github.com/navyakammalapally
-
----
-
-## License
-
-This project is developed for educational and portfolio purposes.
+ https://navyakammalapally.github.io/Portfolio-website/
